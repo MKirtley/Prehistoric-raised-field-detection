@@ -1,0 +1,1 @@
+Place augmented input mask image data here
