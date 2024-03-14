@@ -1,5 +1,5 @@
 # Prehistoric-raised-field-detection
-University final year individual project: Using Computer Vision to Map Ancient Landscape Engineering in the Mompos Depression, Columbia. This is achieved by training a U-Net model to perform semantic segmentation.
+University final year individual project: Using Computer Vision to Map Ancient Landscape Engineering in the Mompos Depression, Columbia. This is achieved by creating and training a U-Net model to perform semantic segmentation.
 
 ![test1](https://github.com/MKirtley/Prehistoric-raised-field-detection/assets/54330969/47bebcb3-b0ee-4e81-b557-d0de6e44c441)
 
